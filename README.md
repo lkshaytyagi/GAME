@@ -22,4 +22,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 
 ### 2. Install Pygame
 
-You can install
+You can install Pygame using pip. Open your terminal or command prompt and run:
+
+```bash
+pip install pygame
